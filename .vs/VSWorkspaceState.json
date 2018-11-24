@@ -2,10 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\api",
+    "\\src\\api\\products",
     "\\src\\app",
-    "\\src\\assets",
-    "\\src\\assets\\images"
+    "\\src\\app\\home",
+    "\\src\\app\\products",
+    "\\src\\app\\shared",
+    "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\assets\\images\\logo.jpg",
+  "SelectedNode": "\\src\\api\\products\\products.json",
   "PreviewInSolutionExplorer": false
 }
