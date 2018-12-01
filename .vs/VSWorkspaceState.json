@@ -2,12 +2,14 @@
   "ExpandedNodes": [
     "",
     "\\src",
+    "\\src\\api",
+    "\\src\\api\\products",
     "\\src\\app",
     "\\src\\app\\home",
     "\\src\\app\\products",
     "\\src\\app\\shared",
     "\\src\\assets"
   ],
-  "SelectedNode": "\\src\\app\\shared\\star.component.html",
+  "SelectedNode": "\\src\\app\\app.component.ts",
   "PreviewInSolutionExplorer": false
 }
